@@ -12,7 +12,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
           <br />
-          bottom text
+          bottom text testing this stuff
         </p>
         <a
           className="App-link"
